@@ -1,4 +1,4 @@
-Sistema-Registro-de-Evaluaci-n
+Sistema de Registro de Evaluación
 ==============================
 
 Sistema Registro de Evaluación
